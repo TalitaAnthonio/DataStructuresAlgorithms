@@ -1,2 +1,5 @@
-# DataStructuresAlgorithms
-Repository for learning data structures and algorithms. 
+# Data structures & Algorithms 
+This is a repository for learning data structures and algorithms in Python. 
+
+# Currently covered: 
+1. Linear Search
