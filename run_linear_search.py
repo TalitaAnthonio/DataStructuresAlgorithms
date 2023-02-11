@@ -1,4 +1,5 @@
-from linear_search.module import hello
+from linear_search.module import linear_search
 
 
-hello()
+if __name__ == "__main__":
+    linear_search([1, 2, 3], 1)
